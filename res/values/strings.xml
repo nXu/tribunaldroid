@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TribunalDroid</string>
+    <string name="signin_caption">Sign in</string>
+    <string name="email">E-mail address</string>
+    <string name="password">Password</string>
+    <string name="server">Server</string>
+    <string name="login">Log in</string>
+    <string name="title_activity_login">TribunalDroid</string>
+    <string-array name="ServerList">
+    	<item>NA</item>
+    	<item>EUW</item>
+    	<item>EUNE</item>
+    </string-array>
+    <string name="captcha">CAPTCHA</string>
+    <string-array name="ErrorList">
+    	<item>Unknown error</item>
+    	<item>Connection error</item>
+    	<item>Error while reading response from the server</item>
+    	<item>Can't get CAPTCHA</item>
+    </string-array>
+
+</resources>
